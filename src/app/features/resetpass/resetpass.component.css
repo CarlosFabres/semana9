@@ -1,8 +1,0 @@
-input.ng-invalid.ng-touched {
-    border-color: #dc3545; /* rojo para errores */
-  }
-  
-  input.ng-valid.ng-touched {
-    border-color: #28a745; /* verde para validos */
-  }
-  
